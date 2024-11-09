@@ -1,4 +1,7 @@
 name: Windows 10 - RustDesk
+description: |
+  https://www.youtube.com/watch?v=lSdQCmpiBEg
+  https://github.com/kumaresankp/windows_rdp_yaml/blob/main/Windows%2010%20-%20RustDesk.yml
 
 on:
   workflow_dispatch:
