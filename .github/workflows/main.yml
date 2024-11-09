@@ -1,4 +1,4 @@
-name: CI
+name: ngrok VPS Windows
 
 on: [push, workflow_dispatch]
 
